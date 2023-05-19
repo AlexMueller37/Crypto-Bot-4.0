@@ -8,8 +8,8 @@ from make_order import order
 from macd import macd, check_macd
 from ema import ema, check_ema
 
-API_KEY = 'PKQFTFCZ2SXAQC47WV30'
-SECRET_KEY = 'sN81VHNNKCzNRtdavSKPf8A8EA6COTQOmihARdnG'
+API_KEY = '#####################'
+SECRET_KEY = '###################################'
 
 TRADE_SYMBOL = 'BTCUSD'
 BUY_QUANTITY = 1 
